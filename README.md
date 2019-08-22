@@ -2,6 +2,7 @@
 This repository contains the code (in Keras) for "Fast and Robust UAV to UAV Detection and Tracking" by Jing Li.
 ## Citation
 @inproceedings{li2016multi,
+
   title={Multi-target detection and tracking from a single camera in Unmanned Aerial Vehicles (UAVs)},  
   author={Li, Jing and Ye, Dong Hye and Chung, Timothy and Kolsch, Mathias and Wachs, Juan and Bouman, Charles},  
   booktitle={2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},  
