@@ -23,9 +23,9 @@ This repository contains the code (in Keras) for "Fast and Robust UAV to UAV Det
 ### Dependencies
 
     Python3.6
-    Tensorflow 1.0+
+    Tensorflow 1.x
     Keras
-    
+    Opencv 3.x    
 
 
 
