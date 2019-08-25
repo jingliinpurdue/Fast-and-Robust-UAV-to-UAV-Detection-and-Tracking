@@ -1,0 +1,576 @@
+time_layer: 1 detections: 
+time_layer: 2 detections: 
+time_layer: 3 detections: 
+time_layer: 4 detections: 
+time_layer: 5 detections: 
+time_layer: 6 detections: 
+time_layer: 7 detections: 
+time_layer: 8 detections: 
+time_layer: 9 detections: 
+time_layer: 10 detections: 
+time_layer: 11 detections: 
+time_layer: 12 detections: 
+time_layer: 13 detections: 
+time_layer: 14 detections: 
+time_layer: 15 detections: 
+time_layer: 16 detections: 
+time_layer: 17 detections: 
+time_layer: 18 detections: 
+time_layer: 19 detections: 
+time_layer: 20 detections: 
+time_layer: 21 detections: 
+time_layer: 22 detections: 
+time_layer: 23 detections: 
+time_layer: 24 detections: 
+time_layer: 25 detections: 
+time_layer: 26 detections: 
+time_layer: 27 detections: 
+time_layer: 28 detections: 
+time_layer: 29 detections: 
+time_layer: 30 detections: 
+time_layer: 31 detections: (1012, 1894, 1027, 1918), 
+time_layer: 32 detections: (1018, 1888, 1033, 1912), 
+time_layer: 33 detections: (1025, 1883, 1039, 1907), 
+time_layer: 34 detections: (1031, 1877, 1046, 1901), 
+time_layer: 35 detections: (1038, 1872, 1052, 1896), 
+time_layer: 36 detections: (1044, 1866, 1058, 1890), 
+time_layer: 37 detections: (1051, 1861, 1065, 1885), 
+time_layer: 38 detections: (1057, 1855, 1071, 1879), 
+time_layer: 39 detections: (1064, 1850, 1078, 1874), 
+time_layer: 40 detections: (1064, 1848, 1078, 1872), 
+time_layer: 41 detections: (1064, 1846, 1078, 1870), 
+time_layer: 42 detections: (1064, 1844, 1078, 1868), 
+time_layer: 43 detections: (1064, 1842, 1078, 1866), 
+time_layer: 44 detections: (1064, 1840, 1078, 1864), 
+time_layer: 45 detections: (1064, 1839, 1078, 1863), 
+time_layer: 46 detections: (1063, 1840, 1077, 1863), 
+time_layer: 47 detections: (1062, 1841, 1076, 1864), 
+time_layer: 48 detections: (1061, 1842, 1075, 1864), 
+time_layer: 49 detections: (1061, 1843, 1074, 1865), 
+time_layer: 50 detections: (1057, 1849, 1070, 1871), 
+time_layer: 51 detections: (1054, 1855, 1067, 1877), 
+time_layer: 52 detections: (1051, 1862, 1064, 1884), 
+time_layer: 53 detections: (1049, 1868, 1062, 1890), 
+time_layer: 54 detections: (1048, 1874, 1061, 1896), 
+time_layer: 55 detections: (1047, 1880, 1060, 1902), 
+time_layer: 56 detections: (1046, 1886, 1059, 1908), 
+time_layer: 57 detections: (1045, 1889, 1057, 1910), 
+time_layer: 58 detections: (1044, 1893, 1056, 1913), 
+time_layer: 59 detections: (1043, 1896, 1055, 1916), 
+time_layer: 60 detections: 
+time_layer: 61 detections: 
+time_layer: 62 detections: 
+time_layer: 63 detections: 
+time_layer: 64 detections: 
+time_layer: 65 detections: 
+time_layer: 66 detections: 
+time_layer: 67 detections: 
+time_layer: 68 detections: 
+time_layer: 69 detections: 
+time_layer: 70 detections: 
+time_layer: 71 detections: 
+time_layer: 72 detections: 
+time_layer: 73 detections: 
+time_layer: 74 detections: 
+time_layer: 75 detections: 
+time_layer: 76 detections: 
+time_layer: 77 detections: 
+time_layer: 78 detections: 
+time_layer: 79 detections: 
+time_layer: 80 detections: 
+time_layer: 81 detections: 
+time_layer: 82 detections: 
+time_layer: 83 detections: 
+time_layer: 84 detections: 
+time_layer: 85 detections: 
+time_layer: 86 detections: 
+time_layer: 87 detections: 
+time_layer: 88 detections: 
+time_layer: 89 detections: 
+time_layer: 90 detections: 
+time_layer: 91 detections: 
+time_layer: 92 detections: 
+time_layer: 93 detections: 
+time_layer: 94 detections: 
+time_layer: 95 detections: (1043, 1900, 1054, 1919), 
+time_layer: 96 detections: (1049, 1897, 1060, 1916), 
+time_layer: 97 detections: (1055, 1895, 1066, 1913), 
+time_layer: 98 detections: (1061, 1892, 1072, 1910), 
+time_layer: 99 detections: 
+time_layer: 100 detections: (8, 1546, 19, 1563), 
+time_layer: 101 detections: (19, 1544, 30, 1561), 
+time_layer: 102 detections: (31, 1542, 42, 1559), 
+time_layer: 103 detections: (42, 1540, 53, 1557), 
+time_layer: 104 detections: (54, 1538, 65, 1555), 
+time_layer: 105 detections: (62, 1534, 73, 1551), 
+time_layer: 106 detections: (71, 1530, 82, 1547), 
+time_layer: 107 detections: (79, 1526, 90, 1543), 
+time_layer: 108 detections: (88, 1522, 99, 1539), 
+time_layer: 109 detections: (97, 1521, 108, 1538), 
+time_layer: 110 detections: (106, 1520, 117, 1538), 
+time_layer: 111 detections: (115, 1520, 126, 1537), 
+time_layer: 112 detections: (124, 1519, 135, 1537), 
+time_layer: 113 detections: (133, 1519, 144, 1537), 
+time_layer: 114 detections: (132, 1519, 143, 1536), 
+time_layer: 115 detections: (131, 1519, 142, 1536), 
+time_layer: 116 detections: (130, 1519, 141, 1536), 
+time_layer: 117 detections: (129, 1519, 140, 1536), 
+time_layer: 118 detections: (128, 1519, 139, 1536), 
+time_layer: 119 detections: (128, 1519, 139, 1536), 
+time_layer: 120 detections: (128, 1520, 139, 1537), 
+time_layer: 121 detections: (128, 1522, 139, 1539), 
+time_layer: 122 detections: (128, 1523, 139, 1540), 
+time_layer: 123 detections: (128, 1525, 139, 1542), 
+time_layer: 124 detections: (135, 1536, 146, 1553), 
+time_layer: 125 detections: (143, 1547, 154, 1564), 
+time_layer: 126 detections: (150, 1558, 161, 1575), 
+time_layer: 127 detections: (158, 1569, 169, 1586), 
+time_layer: 128 detections: (166, 1580, 177, 1597), 
+time_layer: 129 detections: (168, 1587, 179, 1604), 
+time_layer: 130 detections: (170, 1594, 182, 1611), 
+time_layer: 131 detections: (173, 1601, 185, 1618), 
+time_layer: 132 detections: (176, 1601, 188, 1617), 
+time_layer: 133 detections: (179, 1601, 191, 1617), 
+time_layer: 134 detections: (183, 1601, 194, 1617), 
+time_layer: 135 detections: (183, 1595, 194, 1611), 
+time_layer: 136 detections: (184, 1590, 195, 1606), 
+time_layer: 137 detections: (184, 1584, 195, 1601), 
+time_layer: 138 detections: (185, 1579, 196, 1596), 
+time_layer: 139 detections: (179, 1572, 190, 1589), 
+time_layer: 140 detections: (173, 1566, 184, 1583), 
+time_layer: 141 detections: (167, 1560, 178, 1577), 
+time_layer: 142 detections: (162, 1554, 173, 1571), 
+time_layer: 143 detections: (156, 1548, 167, 1565), 
+time_layer: 144 detections: (150, 1542, 161, 1559), 
+time_layer: 145 detections: (145, 1536, 156, 1553), 
+time_layer: 146 detections: (144, 1532, 155, 1549), 
+time_layer: 147 detections: (143, 1528, 154, 1545), 
+time_layer: 148 detections: (142, 1524, 153, 1541), 
+time_layer: 149 detections: (141, 1521, 152, 1538), 
+time_layer: 150 detections: (140, 1517, 151, 1534), 
+time_layer: 151 detections: (139, 1513, 150, 1530), 
+time_layer: 152 detections: (138, 1510, 149, 1527), 
+time_layer: 153 detections: (144, 1505, 155, 1522), 
+time_layer: 154 detections: (151, 1500, 162, 1518), 
+time_layer: 155 detections: (158, 1495, 169, 1513), 
+time_layer: 156 detections: (165, 1490, 176, 1509), 
+time_layer: 157 detections: (172, 1486, 183, 1505), 
+time_layer: 158 detections: (176, 1475, 187, 1493), 
+time_layer: 159 detections: (181, 1464, 192, 1482), 
+time_layer: 160 detections: (185, 1453, 197, 1471), 
+time_layer: 161 detections: (190, 1442, 202, 1460), 
+time_layer: 162 detections: (195, 1431, 206, 1448), 
+time_layer: 163 detections: (199, 1420, 211, 1437), 
+time_layer: 164 detections: (204, 1409, 216, 1426), 
+time_layer: 165 detections: (209, 1398, 221, 1415), 
+time_layer: 166 detections: (214, 1394, 226, 1411), 
+time_layer: 167 detections: (220, 1390, 231, 1407), 
+time_layer: 168 detections: (225, 1386, 237, 1403), 
+time_layer: 169 detections: (231, 1382, 242, 1400), 
+time_layer: 170 detections: (236, 1378, 248, 1396), 
+time_layer: 171 detections: (242, 1374, 253, 1392), 
+time_layer: 172 detections: (248, 1371, 259, 1389), 
+time_layer: 173 detections: (247, 1375, 258, 1393), 
+time_layer: 174 detections: (247, 1380, 257, 1398), 
+time_layer: 175 detections: (247, 1385, 257, 1403), 
+time_layer: 176 detections: (243, 1394, 253, 1412), 
+time_layer: 177 detections: (239, 1404, 249, 1422), 
+time_layer: 178 detections: (235, 1414, 245, 1431), 
+time_layer: 179 detections: (231, 1424, 242, 1441), 
+time_layer: 180 detections: (229, 1437, 240, 1455), 
+time_layer: 181 detections: (228, 1451, 239, 1470), 
+time_layer: 182 detections: (226, 1465, 238, 1484), 
+time_layer: 183 detections: (225, 1479, 237, 1499), 
+time_layer: 184 detections: (229, 1486, 240, 1506), 
+time_layer: 185 detections: (233, 1493, 244, 1513), 
+time_layer: 186 detections: (237, 1501, 248, 1520), 
+time_layer: 187 detections: (237, 1500, 248, 1519), 
+time_layer: 188 detections: (238, 1500, 249, 1519), 
+time_layer: 189 detections: (238, 1499, 249, 1518), 
+time_layer: 190 detections: (239, 1499, 250, 1518), 
+time_layer: 191 detections: (240, 1499, 251, 1518), 
+time_layer: 192 detections: (235, 1487, 246, 1506), 
+time_layer: 193 detections: (231, 1476, 242, 1494), 
+time_layer: 194 detections: (226, 1465, 237, 1483), 
+time_layer: 195 detections: (222, 1454, 233, 1471), 
+time_layer: 196 detections: (218, 1443, 229, 1460), 
+time_layer: 197 detections: (213, 1428, 224, 1445), 
+time_layer: 198 detections: (208, 1414, 219, 1431), 
+time_layer: 199 detections: (203, 1399, 214, 1416), 
+time_layer: 200 detections: (199, 1385, 209, 1402), 
+time_layer: 201 detections: (194, 1370, 204, 1388), 
+time_layer: 202 detections: (189, 1356, 199, 1373), 
+time_layer: 203 detections: (184, 1341, 194, 1359), 
+time_layer: 204 detections: (180, 1327, 190, 1345), 
+time_layer: 205 detections: (185, 1320, 195, 1338), 
+time_layer: 206 detections: (190, 1313, 200, 1331), 
+time_layer: 207 detections: (195, 1306, 205, 1324), 
+time_layer: 208 detections: (200, 1300, 210, 1317), 
+time_layer: 209 detections: (205, 1293, 215, 1310), 
+time_layer: 210 detections: (210, 1286, 220, 1303), 
+time_layer: 211 detections: (215, 1279, 225, 1296), 
+time_layer: 212 detections: (220, 1273, 231, 1290), 
+time_layer: 213 detections: (218, 1269, 229, 1286), 
+time_layer: 214 detections: (217, 1265, 228, 1282), 
+time_layer: 215 detections: (216, 1261, 227, 1278), 
+time_layer: 216 detections: (215, 1258, 226, 1275), 
+time_layer: 217 detections: (221, 1255, 232, 1272), 
+time_layer: 218 detections: (228, 1253, 239, 1270), 
+time_layer: 219 detections: (234, 1250, 245, 1267), 
+time_layer: 220 detections: (241, 1248, 252, 1265), 
+time_layer: 221 detections: (247, 1245, 258, 1262), 
+time_layer: 222 detections: (254, 1243, 265, 1260), 
+time_layer: 223 detections: (262, 1239, 273, 1256), 
+time_layer: 224 detections: (270, 1235, 281, 1252), 
+time_layer: 225 detections: (278, 1231, 289, 1248), 
+time_layer: 226 detections: (283, 1223, 294, 1240), 
+time_layer: 227 detections: (289, 1216, 300, 1232), 
+time_layer: 228 detections: (295, 1208, 306, 1225), 
+time_layer: 229 detections: (301, 1201, 312, 1217), 
+time_layer: 230 detections: (306, 1193, 317, 1209), 
+time_layer: 231 detections: (312, 1186, 323, 1202), 
+time_layer: 232 detections: (318, 1178, 329, 1194), 
+time_layer: 233 detections: (324, 1171, 335, 1187), 
+time_layer: 234 detections: (327, 1165, 338, 1182), 
+time_layer: 235 detections: (331, 1160, 342, 1177), 
+time_layer: 236 detections: (335, 1155, 346, 1172), 
+time_layer: 237 detections: (336, 1150, 347, 1167), 
+time_layer: 238 detections: (338, 1145, 348, 1163), 
+time_layer: 239 detections: (340, 1141, 350, 1159), 
+time_layer: 240 detections: (338, 1139, 348, 1157), 
+time_layer: 241 detections: (336, 1137, 346, 1155), 
+time_layer: 242 detections: (334, 1135, 344, 1153), 
+time_layer: 243 detections: (332, 1134, 342, 1151), 
+time_layer: 244 detections: (330, 1132, 340, 1149), 
+time_layer: 245 detections: (328, 1130, 338, 1147), 
+time_layer: 246 detections: (326, 1129, 337, 1146), 
+time_layer: 247 detections: (324, 1129, 335, 1147), 
+time_layer: 248 detections: (322, 1130, 333, 1148), 
+time_layer: 249 detections: (320, 1130, 331, 1149), 
+time_layer: 250 detections: (318, 1131, 329, 1150), 
+time_layer: 251 detections: (317, 1132, 328, 1151), 
+time_layer: 252 detections: (317, 1131, 328, 1150), 
+time_layer: 253 detections: (317, 1130, 328, 1149), 
+time_layer: 254 detections: (317, 1129, 328, 1148), 
+time_layer: 255 detections: (317, 1128, 328, 1147), 
+time_layer: 256 detections: (317, 1127, 328, 1146), 
+time_layer: 257 detections: (317, 1127, 328, 1146), 
+time_layer: 258 detections: (313, 1126, 324, 1145), 
+time_layer: 259 detections: (310, 1125, 321, 1144), 
+time_layer: 260 detections: (306, 1125, 317, 1144), 
+time_layer: 261 detections: (303, 1124, 314, 1143), 
+time_layer: 262 detections: (300, 1124, 311, 1143), 
+time_layer: 263 detections: (294, 1120, 305, 1139), 
+time_layer: 264 detections: (288, 1116, 299, 1135), 
+time_layer: 265 detections: (283, 1113, 294, 1132), 
+time_layer: 266 detections: (281, 1109, 292, 1128), 
+time_layer: 267 detections: (279, 1105, 290, 1124), 
+time_layer: 268 detections: (277, 1101, 288, 1120), 
+time_layer: 269 detections: (275, 1097, 286, 1116), 
+time_layer: 270 detections: (277, 1091, 288, 1110), 
+time_layer: 271 detections: (280, 1086, 291, 1105), 
+time_layer: 272 detections: (283, 1080, 294, 1099), 
+time_layer: 273 detections: (286, 1075, 297, 1094), 
+time_layer: 274 detections: (285, 1068, 296, 1088), 
+time_layer: 275 detections: (284, 1062, 295, 1082), 
+time_layer: 276 detections: (283, 1056, 294, 1076), 
+time_layer: 277 detections: (283, 1050, 294, 1071), 
+time_layer: 278 detections: (281, 1045, 292, 1066), 
+time_layer: 279 detections: (279, 1041, 290, 1062), 
+time_layer: 280 detections: (277, 1036, 288, 1057), 
+time_layer: 281 detections: (275, 1032, 286, 1053), 
+time_layer: 282 detections: (274, 1028, 285, 1049), 
+time_layer: 283 detections: (273, 1025, 284, 1046), 
+time_layer: 284 detections: (273, 1022, 284, 1043), 
+time_layer: 285 detections: (272, 1019, 283, 1040), 
+time_layer: 286 detections: (272, 1016, 283, 1037), 
+time_layer: 287 detections: (272, 1013, 283, 1034), 
+time_layer: 288 detections: (271, 1010, 282, 1031), 
+time_layer: 289 detections: (271, 1007, 282, 1028), 
+time_layer: 290 detections: (271, 1005, 282, 1026), 
+time_layer: 291 detections: (270, 1005, 281, 1026), 
+time_layer: 292 detections: (270, 1005, 281, 1026), 
+time_layer: 293 detections: (269, 1005, 280, 1026), 
+time_layer: 294 detections: (269, 1005, 280, 1026), 
+time_layer: 295 detections: (269, 1005, 280, 1026), 
+time_layer: 296 detections: (268, 1003, 279, 1024), 
+time_layer: 297 detections: (267, 1001, 278, 1022), 
+time_layer: 298 detections: (266, 999, 277, 1020), 
+time_layer: 299 detections: (265, 998, 276, 1019), 
+time_layer: 300 detections: (265, 996, 276, 1017), 
+time_layer: 301 detections: (266, 994, 277, 1015), 
+time_layer: 302 detections: (267, 992, 278, 1013), 
+time_layer: 303 detections: (268, 990, 279, 1011), 
+time_layer: 304 detections: (269, 988, 280, 1009), 
+time_layer: 305 detections: (270, 987, 281, 1008), 
+time_layer: 306 detections: (268, 983, 279, 1004), 
+time_layer: 307 detections: (267, 979, 278, 1000), 
+time_layer: 308 detections: (266, 975, 277, 996), 
+time_layer: 309 detections: (265, 971, 276, 992), 
+time_layer: 310 detections: (264, 968, 275, 989), 
+time_layer: 311 detections: (262, 966, 273, 987), 
+time_layer: 312 detections: (261, 964, 272, 985), 
+time_layer: 313 detections: (260, 962, 271, 983), 
+time_layer: 314 detections: (259, 960, 270, 981), 
+time_layer: 315 detections: (258, 958, 269, 979), 
+time_layer: 316 detections: (257, 956, 268, 977), 
+time_layer: 317 detections: (256, 954, 267, 975), 
+time_layer: 318 detections: (255, 952, 266, 973), 
+time_layer: 319 detections: (254, 950, 265, 971), 
+time_layer: 320 detections: (253, 948, 264, 969), 
+time_layer: 321 detections: (252, 947, 263, 968), 
+time_layer: 322 detections: (251, 944, 262, 965), 
+time_layer: 323 detections: (250, 942, 261, 963), 
+time_layer: 324 detections: (249, 939, 260, 960), 
+time_layer: 325 detections: (249, 937, 260, 958), 
+time_layer: 326 detections: (248, 934, 259, 955), 
+time_layer: 327 detections: (247, 932, 258, 953), 
+time_layer: 328 detections: (247, 930, 258, 951), 
+time_layer: 329 detections: (245, 926, 256, 947), 
+time_layer: 330 detections: (243, 922, 254, 943), 
+time_layer: 331 detections: (241, 918, 252, 939), 
+time_layer: 332 detections: (239, 914, 250, 935), 
+time_layer: 333 detections: (237, 910, 248, 931), 
+time_layer: 334 detections: (235, 907, 246, 928), 
+time_layer: 335 detections: (234, 903, 245, 924), 
+time_layer: 336 detections: (233, 899, 244, 920), 
+time_layer: 337 detections: (233, 895, 244, 916), 
+time_layer: 338 detections: (232, 891, 243, 912), 
+time_layer: 339 detections: (231, 887, 242, 908), 
+time_layer: 340 detections: (231, 884, 242, 905), 
+time_layer: 341 detections: (229, 880, 241, 901), 
+time_layer: 342 detections: (228, 877, 240, 897), 
+time_layer: 343 detections: (227, 873, 239, 894), 
+time_layer: 344 detections: (225, 870, 238, 890), 
+time_layer: 345 detections: (224, 866, 237, 886), 
+time_layer: 346 detections: (223, 863, 236, 883), 
+time_layer: 347 detections: (221, 863, 234, 883), 
+time_layer: 348 detections: (219, 863, 232, 883), 
+time_layer: 349 detections: (217, 863, 230, 883), 
+time_layer: 350 detections: (216, 863, 229, 883), 
+time_layer: 351 detections: (214, 863, 227, 883), 
+time_layer: 352 detections: (212, 863, 225, 883), 
+time_layer: 353 detections: (211, 863, 224, 883), 
+time_layer: 354 detections: (209, 864, 222, 884), 
+time_layer: 355 detections: (207, 865, 220, 885), 
+time_layer: 356 detections: (205, 866, 218, 886), 
+time_layer: 357 detections: (204, 867, 217, 887), 
+time_layer: 358 detections: (202, 868, 215, 888), 
+time_layer: 359 detections: (200, 869, 213, 889), 
+time_layer: 360 detections: (199, 871, 212, 891), 
+time_layer: 361 detections: (194, 869, 207, 889), 
+time_layer: 362 detections: (189, 867, 202, 887), 
+time_layer: 363 detections: (184, 865, 197, 885), 
+time_layer: 364 detections: (179, 863, 192, 883), 
+time_layer: 365 detections: (175, 861, 188, 881), 
+time_layer: 366 detections: (170, 858, 183, 878), 
+time_layer: 367 detections: (166, 856, 179, 876), 
+time_layer: 368 detections: (162, 853, 175, 873), 
+time_layer: 369 detections: (158, 851, 171, 871), 
+time_layer: 370 detections: (161, 845, 174, 865), 
+time_layer: 371 detections: (164, 840, 177, 860), 
+time_layer: 372 detections: (167, 834, 180, 854), 
+time_layer: 373 detections: (170, 829, 183, 849), 
+time_layer: 374 detections: (173, 823, 186, 843), 
+time_layer: 375 detections: (176, 818, 189, 838), 
+time_layer: 376 detections: (174, 812, 187, 832), 
+time_layer: 377 detections: (173, 806, 186, 826), 
+time_layer: 378 detections: (171, 800, 184, 820), 
+time_layer: 379 detections: (170, 794, 183, 815), 
+time_layer: 380 detections: (175, 791, 188, 812), 
+time_layer: 381 detections: (180, 788, 193, 809), 
+time_layer: 382 detections: (185, 785, 198, 806), 
+time_layer: 383 detections: (186, 780, 199, 801), 
+time_layer: 384 detections: (187, 776, 200, 797), 
+time_layer: 385 detections: (189, 772, 202, 793), 
+time_layer: 386 detections: (188, 770, 201, 791), 
+time_layer: 387 detections: (187, 768, 200, 789), 
+time_layer: 388 detections: (187, 766, 200, 787), 
+time_layer: 389 detections: (189, 764, 202, 785), 
+time_layer: 390 detections: (191, 762, 204, 783), 
+time_layer: 391 detections: (193, 760, 206, 781), 
+time_layer: 392 detections: (195, 758, 208, 779), 
+time_layer: 393 detections: (197, 756, 210, 777), 
+time_layer: 394 detections: (199, 755, 212, 776), 
+time_layer: 395 detections: (200, 754, 213, 775), 
+time_layer: 396 detections: (202, 754, 215, 775), 
+time_layer: 397 detections: (204, 753, 217, 774), 
+time_layer: 398 detections: (206, 753, 219, 774), 
+time_layer: 399 detections: (208, 752, 221, 773), 
+time_layer: 400 detections: (210, 752, 223, 773), 
+time_layer: 401 detections: (210, 749, 223, 770), 
+time_layer: 402 detections: (211, 747, 224, 768), 
+time_layer: 403 detections: (212, 744, 225, 765), 
+time_layer: 404 detections: (212, 742, 225, 763), 
+time_layer: 405 detections: (213, 739, 226, 760), 
+time_layer: 406 detections: (214, 737, 227, 758), 
+time_layer: 407 detections: (213, 729, 226, 750), 
+time_layer: 408 detections: (213, 722, 226, 743), 
+time_layer: 409 detections: (213, 715, 226, 736), 
+time_layer: 410 detections: (213, 708, 226, 729), 
+time_layer: 411 detections: (213, 701, 226, 722), 
+time_layer: 412 detections: (213, 694, 226, 715), 
+time_layer: 413 detections: (214, 680, 229, 701), 
+time_layer: 414 detections: (216, 667, 232, 688), 
+time_layer: 415 detections: (217, 653, 235, 674), 
+time_layer: 416 detections: (219, 640, 238, 661), 
+time_layer: 417 detections: (221, 627, 242, 648), 
+time_layer: 418 detections: (230, 610, 251, 631), 
+time_layer: 419 detections: (240, 593, 261, 614), 
+time_layer: 420 detections: (249, 576, 270, 597), 
+time_layer: 421 detections: (259, 560, 280, 581), 
+time_layer: 422 detections: (272, 544, 293, 565), 
+time_layer: 423 detections: (286, 528, 307, 549), 
+time_layer: 424 detections: (300, 512, 321, 533), 
+time_layer: 425 detections: (313, 496, 334, 517), 
+time_layer: 426 detections: (327, 480, 348, 501), 
+time_layer: 427 detections: (341, 465, 362, 486), 
+time_layer: 428 detections: (365, 453, 386, 474), 
+time_layer: 429 detections: (390, 441, 411, 462), 
+time_layer: 430 detections: (415, 429, 436, 450), 
+time_layer: 431 detections: (435, 420, 456, 441), 
+time_layer: 432 detections: (455, 412, 476, 433), 
+time_layer: 433 detections: (475, 403, 496, 424), 
+time_layer: 434 detections: (496, 395, 517, 416), 
+time_layer: 435 detections: (509, 387, 530, 408), 
+time_layer: 436 detections: (523, 380, 544, 401), 
+time_layer: 437 detections: (537, 373, 558, 394), 
+time_layer: 438 detections: (545, 364, 566, 385), 
+time_layer: 439 detections: (554, 355, 575, 376), 
+time_layer: 440 detections: (562, 346, 583, 367), 
+time_layer: 441 detections: (571, 337, 592, 358), 
+time_layer: 442 detections: (579, 328, 600, 349), 
+time_layer: 443 detections: (588, 319, 609, 340), 
+time_layer: 444 detections: (597, 310, 618, 331), 
+time_layer: 445 detections: (596, 296, 617, 317), 
+time_layer: 446 detections: (596, 283, 617, 304), 
+time_layer: 447 detections: (596, 270, 617, 291), 
+time_layer: 448 detections: (596, 257, 617, 278), 
+time_layer: 449 detections: (604, 241, 625, 262), 
+time_layer: 450 detections: (612, 225, 633, 246), 
+time_layer: 451 detections: (620, 209, 641, 230), 
+time_layer: 452 detections: (628, 193, 649, 214), 
+time_layer: 453 detections: (636, 178, 657, 199), 
+time_layer: 454 detections: (643, 158, 664, 179), 
+time_layer: 455 detections: (651, 138, 672, 159), 
+time_layer: 456 detections: (659, 118, 680, 139), 
+time_layer: 457 detections: (666, 98, 687, 119), 
+time_layer: 458 detections: (674, 78, 695, 99), 
+time_layer: 459 detections: 
+time_layer: 460 detections: 
+time_layer: 461 detections: 
+time_layer: 462 detections: 
+time_layer: 463 detections: 
+time_layer: 464 detections: 
+time_layer: 465 detections: 
+time_layer: 466 detections: 
+time_layer: 467 detections: 
+time_layer: 468 detections: 
+time_layer: 469 detections: 
+time_layer: 470 detections: 
+time_layer: 471 detections: 
+time_layer: 472 detections: 
+time_layer: 473 detections: 
+time_layer: 474 detections: 
+time_layer: 475 detections: 
+time_layer: 476 detections: 
+time_layer: 477 detections: 
+time_layer: 478 detections: 
+time_layer: 479 detections: 
+time_layer: 480 detections: 
+time_layer: 481 detections: 
+time_layer: 482 detections: 
+time_layer: 483 detections: 
+time_layer: 484 detections: 
+time_layer: 485 detections: 
+time_layer: 486 detections: 
+time_layer: 487 detections: 
+time_layer: 488 detections: 
+time_layer: 489 detections: 
+time_layer: 490 detections: 
+time_layer: 491 detections: 
+time_layer: 492 detections: 
+time_layer: 493 detections: 
+time_layer: 494 detections: 
+time_layer: 495 detections: 
+time_layer: 496 detections: 
+time_layer: 497 detections: 
+time_layer: 498 detections: 
+time_layer: 499 detections: 
+time_layer: 500 detections: 
+time_layer: 501 detections: 
+time_layer: 502 detections: 
+time_layer: 503 detections: 
+time_layer: 504 detections: 
+time_layer: 505 detections: 
+time_layer: 506 detections: 
+time_layer: 507 detections: 
+time_layer: 508 detections: 
+time_layer: 509 detections: 
+time_layer: 510 detections: 
+time_layer: 511 detections: 
+time_layer: 512 detections: 
+time_layer: 513 detections: 
+time_layer: 514 detections: 
+time_layer: 515 detections: 
+time_layer: 516 detections: 
+time_layer: 517 detections: 
+time_layer: 518 detections: 
+time_layer: 519 detections: 
+time_layer: 520 detections: 
+time_layer: 521 detections: 
+time_layer: 522 detections: 
+time_layer: 523 detections: 
+time_layer: 524 detections: 
+time_layer: 525 detections: 
+time_layer: 526 detections: 
+time_layer: 527 detections: 
+time_layer: 528 detections: 
+time_layer: 529 detections: 
+time_layer: 530 detections: 
+time_layer: 531 detections: 
+time_layer: 532 detections: 
+time_layer: 533 detections: 
+time_layer: 534 detections: 
+time_layer: 535 detections: 
+time_layer: 536 detections: 
+time_layer: 537 detections: 
+time_layer: 538 detections: 
+time_layer: 539 detections: 
+time_layer: 540 detections: 
+time_layer: 541 detections: 
+time_layer: 542 detections: 
+time_layer: 543 detections: 
+time_layer: 544 detections: 
+time_layer: 545 detections: 
+time_layer: 546 detections: 
+time_layer: 547 detections: 
+time_layer: 548 detections: 
+time_layer: 549 detections: 
+time_layer: 550 detections: 
+time_layer: 551 detections: 
+time_layer: 552 detections: 
+time_layer: 553 detections: 
+time_layer: 554 detections: 
+time_layer: 555 detections: 
+time_layer: 556 detections: 
+time_layer: 557 detections: 
+time_layer: 558 detections: 
+time_layer: 559 detections: 
+time_layer: 560 detections: 
+time_layer: 561 detections: 
+time_layer: 562 detections: 
+time_layer: 563 detections: 
+time_layer: 564 detections: 
+time_layer: 565 detections: 
+time_layer: 566 detections: 
+time_layer: 567 detections: 
+time_layer: 568 detections: 
+time_layer: 569 detections: 
+time_layer: 570 detections: 
+time_layer: 571 detections: 
+time_layer: 572 detections: 
+time_layer: 573 detections: 
+time_layer: 574 detections: 
+time_layer: 575 detections: 
+time_layer: 576 detections: (991, 1901, 1002, 1919), 

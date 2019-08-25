@@ -19,10 +19,12 @@ This repository contains the code (in Keras) for "Fast and Robust UAV to UAV Det
 3. Results
 4. Contacts
 
-## Introduction
 
 ## Usage
-### Dependencies
+### 
+Download videos from https://engineering.purdue.edu/~bouman/UAV_Dataset/
+run Detect_Track_Final.ipynb will generate the results video and Detection txt file 
+## Dependencies
 
     Python3.6
     Tensorflow 1.x
@@ -32,7 +34,9 @@ This repository contains the code (in Keras) for "Fast and Robust UAV to UAV Det
 
 
 ## Results
-
+### 
+text file with detected bounding boxes
+videos with groundtruth and detection results
 ## Contacts
 lijinginxjtu@gmail.com
 
