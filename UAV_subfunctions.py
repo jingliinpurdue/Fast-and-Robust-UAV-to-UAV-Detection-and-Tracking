@@ -232,7 +232,7 @@ def oneDirect(preFrame,curFrame,fp,blocks,lamda,lk_params_track,use_ransac):
     return H_2, p_2[trace_status_2]
 
 
-def biDirect(preFrame,preFrame_1,curFrame,fp,blocks,lamda,lk_params,use_ransac):
+def backgroundMotion(preFrame,preFrame_1,curFrame,fp,blocks,lamda,lk_params,use_ransac):
     """This is the subroutine to compute the bidirectional error.
         Input: previous frame Xt-1,
                frame before previous frame Xt-2,
@@ -257,7 +257,7 @@ def biDirect(preFrame,preFrame_1,curFrame,fp,blocks,lamda,lk_params,use_ransac):
     return H_2, p_2[trace_status_2]
 
 
-def biDirect_error(preFrame,preFrame_1,curFrame,fp,blocks,lamda,lk_params,use_ransac):
+def backgroundsubtraction(preFrame,preFrame_1,curFrame,fp,blocks,lamda,lk_params,use_ransac):
     """This is the subroutine to compute the bidirectional error.
         Input: previous frame Xt-1, 
                frame before previous frame Xt-2, 

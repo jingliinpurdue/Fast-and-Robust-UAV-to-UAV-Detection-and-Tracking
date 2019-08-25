@@ -208,7 +208,6 @@ def DetectOnX_V2(N, maxID, vis, gray, Xt, lk_param, H_back, detectedLocs, CurLoc
             pImg = pImg[st2>0]
             
             if pImg.shape[0]==0:
-                print('really?')
                 continue
             if len(Patches)==0:
                 maxID+=1
@@ -279,7 +278,6 @@ def DetectOnX_Vis(N, maxID, vis, gray, Xt, lk_param, H_back, detectedLocs, CurLo
             pImg = pImg[st2>0]
             
             if pImg.shape[0]==0:
-                print('really?')
                 continue
             if len(Patches)==0:
                 maxID+=1
@@ -352,7 +350,6 @@ def DetectOnX_V1(maxID, vis, gray, Xt, lk_param, H_back, detectedLocs, CurLocs, 
             pImg = pImg[st2>0]
             
             if pImg.shape[0]==0:
-                print('really?')
                 continue
             if len(Patches)==0:
                 maxID+=1
