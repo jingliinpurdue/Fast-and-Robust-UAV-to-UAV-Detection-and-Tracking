@@ -21,8 +21,10 @@ This repository contains the code (in Keras) for "Fast and Robust UAV to UAV Det
 
 ## Usage
 ### 
-Download videos from https://engineering.purdue.edu/~bouman/UAV_Dataset/
-run Detect_Track_Final.ipynb will generate the results video and Detection txt file 
+Download videos from https://engineering.purdue.edu/~bouman/UAV_Dataset/,<br>
+run Detect_Track_Final.ipynb will generate the results video and Detection txt file ,<br>
+
+run demo.sh to 
 ## Dependencies
 
     Python3.6
