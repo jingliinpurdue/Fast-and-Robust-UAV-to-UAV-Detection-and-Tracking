@@ -7,10 +7,10 @@ import cv2
 import random
 import time
 import sys
-from kalman2d import Kalman2D
+from util.kalman2d import Kalman2D
 import operator
 from numpy import zeros, newaxis
-from UAV_subfunctions import *
+from util.UAV_subfunctions import *
 
 
 def dottrack_detect(oriDot, p1, p0, score, st1, d1, d2, Patches):
