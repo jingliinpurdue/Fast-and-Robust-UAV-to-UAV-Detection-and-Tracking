@@ -14,10 +14,9 @@ This repository contains the code (in Keras) for "Fast and Robust UAV to UAV Det
 
 
 ## Content
-1. Introduction
-2. Usage
-3. Results
-4. Contacts
+1. Usage
+2. Results
+3. Contacts
 
 
 ## Usage
