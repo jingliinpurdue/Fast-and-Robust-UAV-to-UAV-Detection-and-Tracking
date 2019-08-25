@@ -34,8 +34,9 @@ run Detect_Track_Final.ipynb will generate the results video and Detection txt f
 
 
 ## Results
-### text file with detected bounding boxes
-### videos with groundtruth and detection results
+### 
+text file with detected bounding boxes
+videos with groundtruth and detection results
 ## Contacts
 lijinginxjtu@gmail.com
 
