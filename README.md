@@ -27,10 +27,13 @@ run Detect_Track_Final.ipynb will generate the results video and Detection txt f
 run demo.sh to run the algorithm to an example video
 ## Dependencies
 
-    Python3.6
-    Tensorflow 1.x
-    Keras
+    Python3.7
+    Tensorflow 1.14
+    Keras 2.2.4
     Opencv 3.4  
+    sklearn
+    cudnn-7-6
+    
 
 
 
