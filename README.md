@@ -33,8 +33,8 @@ run "demo.sh" to test the example video
 
 ## Results
 ### 
-Saved under Experiment_Results folder:,<br>
-text file with detected bounding boxes,<br>
+Saved under Experiment_Results folder:<br>
+.txt file with detected bounding boxes,<br>
 videos with groundtruth and detection results
 ## Contacts
 lijinginxjtu@gmail.com
