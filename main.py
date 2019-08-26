@@ -8,11 +8,11 @@ import operator
 import os
 from numpy import zeros, newaxis
 import re
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import glob
-import skimage
-import skimage.io
-import scipy.io as scp
+#import skimage
+#import skimage.io
+#import scipy.io as scp
 from sklearn.utils import shuffle
 
 from util.Generate_pm_pa import *
@@ -23,7 +23,7 @@ from util.Detect_Patch import *
 from sklearn.ensemble import AdaBoostClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.externals import joblib
-import pandas
+#import pandas
 
 
 import keras
@@ -170,6 +170,7 @@ for ind in range(1,2):
                                 blockSize = 3 )
 
         #cam_gt=cv2.VideoCapture(videoPath+ 'shor_clip_gtVideo/uav_Video_'+videoName+'_gt.mov')
+        print(videoName)
         cam=cv2.VideoCapture(videoPath+ 'Videos/Clip_'+videoName+'.mov')
         gt_text = open(videoPath+ 'Annotation_update_180925/Video_'+videoName+'_gt.txt',"r")
         f_txt = open(video_savePath_Detection+ videoName+'_dt.txt','w')
