@@ -30,7 +30,7 @@ run demo.sh to run the algorithm to an example video
     Python3.6
     Tensorflow 1.x
     Keras
-    Opencv 3.x    
+    Opencv 3.4  
 
 
 
