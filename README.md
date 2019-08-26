@@ -21,16 +21,13 @@ This repository contains the code (in Keras) for "Fast and Robust UAV to UAV Det
 
 ## Usage
 ### 
-
-run python main.py to test the example video
+open terminal run "conda env create -f environmen.yml",<br>
+run "source activate demo" ,<br>
+run "python main.py" to test the example video
 ## Dependencies
 
-    Python3.7
-    Tensorflow 1.14
-    Keras 2.2.4
-    Opencv 3.4  
-    sklearn
-    cudnn-7-6
+    anaconda
+    GPU
     
 
 
