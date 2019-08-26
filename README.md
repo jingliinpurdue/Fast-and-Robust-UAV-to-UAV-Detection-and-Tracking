@@ -22,10 +22,11 @@ This repository contains the code (in Keras) for "Fast and Robust UAV to UAV Det
 ## Usage
 ### 
 run "demo.sh" to test the example video
-## Dependencies
+## Requirements
 
     anaconda
     CUDA >= 10.0
+    CUDA Driver Version: >=430
     
 
 
