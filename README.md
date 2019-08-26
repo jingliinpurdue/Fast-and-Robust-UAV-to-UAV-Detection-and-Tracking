@@ -27,7 +27,7 @@ run "demo.sh" to test the example video
 ## Dependencies
 
     anaconda
-    GPU
+    CUDA >= 10.0
     
 
 
