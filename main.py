@@ -228,7 +228,7 @@ for ind in range(1,2):
             #print(frameidx)
             ##############Start Detection Part############
             ######Background Subtraction #################
-
+            print('frameID:', frameidx)
             gray = Xtminus1.copy()
             # read in current frame Xt
             future_color = cam.read()[1]
