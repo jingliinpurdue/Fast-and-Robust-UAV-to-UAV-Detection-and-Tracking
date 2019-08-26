@@ -21,8 +21,6 @@ This repository contains the code (in Keras) for "Fast and Robust UAV to UAV Det
 
 ## Usage
 ### 
-change the last line in environment.yml,<br>
-"prefix: path to anaconda3/envs/demo",<br>
 run "demo.sh" to test the example video
 ## Dependencies
 
