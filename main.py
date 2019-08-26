@@ -1,3 +1,4 @@
+from __future__ import print_function
 import numpy as np
 import math
 import random
@@ -13,7 +14,6 @@ import skimage
 import skimage.io
 import scipy.io as scp
 from sklearn.utils import shuffle
-from __future__ import print_function
 
 from util.Generate_pm_pa import *
 from util.UAV_subfunctions import *
@@ -25,7 +25,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.externals import joblib
 import pandas
 
-from __future__ import print_function
+
 import keras
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Flatten
