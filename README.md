@@ -2,6 +2,12 @@
 This repository contains the code (in Keras) for "Fast and Robust UAV to UAV Detection and Tracking" by Jing Li.
 
 ## Citation
+If you use our software or our data sets, please cite:
+
+J. Li, D. Ye, M. Kolsch, J. Wachs and C. Bouman, "Fast and Robust UAV to UAV Detection and Tracking from Video" in IEEE Transactions on Emerging Topics in Computing.
+doi: 10.1109/TETC.2021.3104555
+url: https://doi.ieeecomputersociety.org/10.1109/TETC.2021.3104555
+
 @ARTICLE {9519550,
 author = {J. Li and D. Ye and M. Kolsch and J. P. Wachs and C. A. Bouman},
 journal = {IEEE Transactions on Emerging Topics in Computing},
@@ -56,6 +62,7 @@ videos with groundtruth and detection results
 
 ## Dataset
 https://engineering.purdue.edu/~bouman/UAV_Dataset/
+
 ## Contacts
 lijinginxjtu@gmail.com
 
