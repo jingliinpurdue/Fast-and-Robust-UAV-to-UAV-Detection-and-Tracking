@@ -1,0 +1,13 @@
+name: uav-cpu
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - tensorflow==2.15.1
+      - keras==2.15.0
+      - numpy==1.26.4
+      - opencv-python==4.11.0.86
+      - scikit-learn==1.2.2
+      - joblib==1.5.3

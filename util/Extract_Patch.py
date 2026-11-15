@@ -65,10 +65,10 @@ def Extract_Patch(frameidx, gray, Xt, weightedError, centers, H_back, ftparmes, 
             dt_y = y-yhat
             mag_op = np.sqrt(mv_opx*mv_opx+mv_opy*mv_opy)
             mag_p = np.sqrt(mv_px*mv_px+mv_py*mv_py)
-            theta_op = np.math.atan2(mv_opy,mv_opx)
-            theta_p = np.math.atan2(mv_py,mv_px)
+            theta_op = math.atan2(mv_opy,mv_opx)
+            theta_p = math.atan2(mv_py,mv_px)
             mag = np.sqrt(dt_x*dt_x+dt_y*dt_y)
-            theta = np.math.atan2(dt_y,dt_x)
+            theta = math.atan2(dt_y,dt_x)
             magd = abs(mag_op-mag_p)
             thetad = abs(theta_op-theta_p)
             if thetad>np.pi:
@@ -240,7 +240,7 @@ def visPtV1(oriImage, p0, st1, d1):
         if st==0:
             continue
         #draw_str(oriImage, np.int16(x-1), np.int16(y-1), 'ID: %d' % (pt.classID))
-        cv2.circle(oriImage, (x, y), 4, (255, 0, 0), 1)
+        cv2.circle(oriImage, (int(x), int(y)), 4, (255, 0, 0), 1)
     return oriImage
 def visPt(oriImage, p0,gt_mask):    
     dt = 0
@@ -251,8 +251,8 @@ def visPt(oriImage, p0,gt_mask):
         cv2.circle(oriImage, (x, y), 2, (0, 255, 0), -1) 
         dt+=1
         x,y =boundary(x,y,1,w,h)
-        if gt_mask[np.int(y), np.int(x)]>0:
-            hitindex.append(gt_mask[np.int(y), np.int(x)])
+        if gt_mask[int(y), int(x)]>0:
+            hitindex.append(gt_mask[int(y), int(x)])
         else:
             fa+=1
     hit = np.unique(hitindex).shape[0]

@@ -1,3 +1,2 @@
-conda env create -f environment.yml
-source activate demo
-python main.py
+#!/bin/sh
+conda run -n uav-cpu python main.py
