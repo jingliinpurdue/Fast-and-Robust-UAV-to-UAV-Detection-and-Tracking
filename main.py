@@ -21,8 +21,17 @@ from util.Extract_Patch import *
 from util.Detect_Patch import *
 
 from sklearn.ensemble import AdaBoostClassifier
+from sklearn.ensemble import _weight_boosting
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.externals import joblib
+from sklearn.tree import _classes
+import joblib
+import joblib.numpy_pickle
+import sklearn.externals
+sys.modules.setdefault('sklearn.ensemble.weight_boosting', _weight_boosting)
+sys.modules.setdefault('sklearn.tree.tree', _classes)
+sys.modules.setdefault('sklearn.externals.joblib', joblib)
+sys.modules.setdefault('sklearn.externals.joblib.numpy_pickle', joblib.numpy_pickle)
+sklearn.externals.joblib = joblib
 #import pandas
 
 

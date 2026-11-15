@@ -61,10 +61,10 @@ def generatePatches_MV(frameidx, gray, Xt, weightedError, centers, H_back, ftpar
             dt_y = y-yhat
             mag_op = np.sqrt(mv_opx*mv_opx+mv_opy*mv_opy)
             mag_p = np.sqrt(mv_px*mv_px+mv_py*mv_py)
-            theta_op = np.math.atan2(mv_opy,mv_opx)
-            theta_p = np.math.atan2(mv_py,mv_px)
+            theta_op = math.atan2(mv_opy,mv_opx)
+            theta_p = math.atan2(mv_py,mv_px)
             mag = np.sqrt(dt_x*dt_x+dt_y*dt_y)
-            theta = np.math.atan2(dt_y,dt_x)
+            theta = math.atan2(dt_y,dt_x)
             magd = abs(mag_op-mag_p)
             thetad = abs(theta_op-theta_p)
             if thetad>np.pi:

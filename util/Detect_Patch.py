@@ -123,7 +123,7 @@ def patch_KalmanTracking(Dotft, Patchft, H, w,h ):
             Pattr.totalinvisibleCount+=1
             Pattr.invisibleCount+=1
             
-            if np.float(Pattr.totalinvisibleCount)/np.float(Pattr.history)>0.8:
+            if float(Pattr.totalinvisibleCount)/float(Pattr.history)>0.8:
                 continue
             #if Pattr.history<5:
                 #Patchft.remove(Pattr)

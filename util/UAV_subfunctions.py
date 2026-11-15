@@ -93,7 +93,7 @@ def boundary(x,y,radius, w,h):
         x= w-2*radius-1
     if x-2*radius<0:
         x = 2*radius
-    return np.int(x), np.int(y)
+    return int(x), int(y)
 
 
 
@@ -427,10 +427,10 @@ def generateMV(frameidx, gray, Xt, weightedError, centers, H_back, ftparmes, ftp
             dt_y = y-yhat
             mag_op = np.sqrt(mv_opx*mv_opx+mv_opy*mv_opy)
             mag_p = np.sqrt(mv_px*mv_px+mv_py*mv_py)
-            theta_op = np.math.atan2(mv_opy,mv_opx)
-            theta_p = np.math.atan2(mv_py,mv_px)
+            theta_op = math.atan2(mv_opy,mv_opx)
+            theta_p = math.atan2(mv_py,mv_px)
             mag = np.sqrt(dt_x*dt_x+dt_y*dt_y)
-            theta = np.math.atan2(dt_y,dt_x)
+            theta = math.atan2(dt_y,dt_x)
             magd = abs(mag_op-mag_p)
             thetad = abs(theta_op-theta_p)
             if thetad>np.pi:
@@ -541,7 +541,7 @@ def computeNo(Patches, gt_mask,  R, h, w):
         if area>4*R*R:
             area = 1600
         overlaparea = (gt_mask[yyC-R:yyC+R,xxC-R:xxC+R]>0).sum()
-        if np.float(overlaparea)/np.float(area)>ratiothr:
+        if float(overlaparea)/float(area)>ratiothr:
             hit+=1
         else:
             fa+=1
@@ -573,7 +573,7 @@ def ClasifiyVis(f, radius,bacgroundsubtractedimg, oriImage, pred_y, detectedLocs
             if lbarea<area:
                 area=lbarea
         overlaparea = (gt_mask[yyC-R:yyC+R,xxC-R:xxC+R]>0).sum()
-        if np.float(overlaparea)/np.float(area)>ratiothr:
+        if float(overlaparea)/float(area)>ratiothr:
             ft_feature+=str(int(1))+'\n'
             #hit+=1
             cv2.rectangle(oriImage,(np.int16(xxC-R),np.int16(yyC-R)),(np.int16(xxC+R),np.int16(yyC+R)), (0,255,0),1)
@@ -611,7 +611,7 @@ def ClasifiyVis_ori(f, radius,bacgroundsubtractedimg, oriImage, pred_y, detected
             if lbarea<area:
                 area=lbarea
         overlaparea = (gt_mask[yyC-R:yyC+R,xxC-R:xxC+R]>0).sum()
-        if np.float(overlaparea)/np.float(area)>ratiothr:
+        if float(overlaparea)/float(area)>ratiothr:
             ft_feature+=str(int(1))+'\n'
             #hit+=1
             #cv2.rectangle(oriImage,(np.int16(xxC-R),np.int16(yyC-R)),(np.int16(xxC+R),np.int16(yyC+R)), (0,255,0),1)
@@ -779,7 +779,7 @@ def computeFeature(clustertr,featureM,featureX,featureY, indices):
     
     for yy,xx in zip(featureY[indices]-meanY,featureX[indices]-meanX):
         pointCount+=1
-        sumAngle+=(np.math.atan2(yy,xx))*(np.math.atan2(yy,xx))
+        sumAngle+=(math.atan2(yy,xx))*(math.atan2(yy,xx))
             #print 'sumAngle:', sumAngle,'featureNum:',pointCount,'feature:',sumAngle/pointCount
     clustertr.stdMotionDifference = sumAngle/pointCount
 #print clustertr.stdMotionDifference
